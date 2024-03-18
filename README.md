@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fncube.com%2Ffull-stack-developer-vs-mean-stack-developer%2F&psig=AOvVaw2nNUXR6tQF9GI7DMnEm8vF&ust=1710847936400000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi3zK3b_YQDFQAAAAAdAAAAABAF
+![mean-stack-developer-e1579706108805](https://github.com/Ayush8868/Ayush8868/assets/99401047/4334267b-f195-44ad-9b46-66abcd630eca)
 
 <h1 align="center">Hi 👋, I'm Ayush Chauhan</h1>
 <h3 align="center">A passionate Web develope</h3>
@@ -6,6 +6,8 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fncube.com%2Ffull-stack-develop
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush8868&label=Profile%20views&color=0e75b6&style=flat" alt="ayush8868" /> </p>
 
 - 🔭 I’m currently working on **my backend skills and apparently working on different projects.**
+
+- Student at MIET and currently pursuing B.tech with branch CSE **Student at MIET and currently pursuing B.tech with branch CSE**
 
 - 📫 How to reach me **ayushchauhan8868@gmail.com**
 
